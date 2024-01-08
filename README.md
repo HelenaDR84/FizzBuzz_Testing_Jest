@@ -9,7 +9,7 @@ Este repositorio contiene una implementación del problema de programación Fizz
 - Si el número es múltiplo de cinco, se dice "Buzz".
 - Si el número es múltiplo de tres y cinco, se dice "FizzBuzz".
 
-En este proyecto, he incluido dos versiones de FizzBuzz:
+En este proyecto he incluido dos versiones de FizzBuzz:
 1. La versión estándar
 2. Una versión refactorizada que utiliza un operador ternario para mayor brevedad y eficiencia. "FizzBuzzSecondVersion.js"
 
