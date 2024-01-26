@@ -13,7 +13,7 @@ En este proyecto he incluido dos versiones de FizzBuzz:
 1. La versión estándar
 2. Una versión refactorizada que utiliza un operador ternario para mayor brevedad y eficiencia. "FizzBuzzSecondVersion.js"
 
-## 💻 Tecnologías Utilizadas
+## 💻 Tecnologías y Herramientas Utilizadas
 
 [![My Skills](https://skillicons.dev/icons?i=js,jest,github,vscode)](https://skillicons.dev)
 
